@@ -27,8 +27,8 @@ function multiply(){
     $multip = $a * $b;
     echo "This is a Function Multiply = ".$multip ."<br />";
 }
-add();
-sub();
-division();
-multiply();
+add();//Calling add Function
+sub();//Calling sub Function
+division();//Calling division Function
+multiply();//Calling multiply Function
 
