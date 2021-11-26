@@ -1,6 +1,5 @@
 <?php
 //Function
-//1. User-defined a Function
 function add(){
     $a = 10;
     $b = 5;
